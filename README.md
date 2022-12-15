@@ -1,1 +1,10 @@
 # SprintReviewAndRetrospective
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+As a Product Owner, you need to interview the client and interpret the requirements into individual user stories that have 'done' parameters. Creating user stories enables the Product Owner to create a product backlog that lists goals for the project in order of importance to the completion of the project. Also, this will allow the tester the ability to write clear pass/fail test cases for each user story based on the user requirements. 
+
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+The Scrum team will conduct a chosen estimation process to determine which product backlog goals should be conducted in what sprints throughout the development cycle. Throughout these iterations, the team will conduct fifteen minute stand up meetings to discuss what has been accomplished and what the team plans to accomplish that day. The developers and testers will communicate with the Product Owner if they need any elaboration  on the definition of 'done' for a particular goal or further information about design. The testers and developers will then work together on the executable version of the goal while refactoring along the way. Finally, the completed executable goal will be reviewed for completion by the team in addition to stakeholders.
+
+# What does it mean to be a good team member in software development?
+Being a good team member requires good communication with the other members and a constant focus on quality in every step. As mentioned above, it is essential to for team members to communicate with the Product Owner with any questions about the project because customer/user requirments are the end goal of the project. Proper team member collaboration is imperative for effiecient goal completion through methods such as partner programming to promote engagement and synergistic teamwork. 
